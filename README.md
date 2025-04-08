@@ -29,7 +29,7 @@
       <p class="text-sm text-gray-600">Entrega Grátis via Motoboy</p>
       <p class="line-through text-sm text-gray-400">R$ 119,90</p>
       <p class="text-green-600 text-2xl font-bold">R$ 49,90</p>
-      <img src="https://via.placeholder.com/150" class="mx-auto my-3" alt="Produto">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaSYzQRY6OTrbtC_pq9ibppr9a9CXP41up6TUQ1__Rr-qXYWgMvqhLsKo&s=10" class="mx-auto my-3" alt="Produto">
       <div class="flex flex-col gap-2 mt-4">
         <button onclick="abrirGateway('Ovo Chef Pistache - R$49,90')" class="bg-red-600 text-white text-center py-2 rounded-xl hover:bg-red-700">Finalizar Pedido</button>
       </div>
