@@ -15,7 +15,7 @@
       <p class="text-sm text-gray-600">Entrega Grátis via Motoboy</p>
       <p class="line-through text-sm text-gray-400">R$ 109,90</p>
       <p class="text-green-600 text-2xl font-bold">R$ 89,40</p>
-      <img src="https://via.placeholder.com/150" class="mx-auto my-3" alt="Produto">
+      <img src="https://cdn.awsli.com.br/2610/2610989/produto/259731164/trio-premium-com-nutella-cpyq8b9y0i.png" class="mx-auto my-3" alt="Produto">
       <div class="flex flex-col gap-2 mt-4">
         <button onclick="abrirGateway('Kit 3 Ovos - R$129,40')" class="bg-red-600 text-white text-center py-2 rounded-xl hover:bg-red-700">Finalizar Pedido</button>
       </div>
@@ -37,11 +37,11 @@
     <!-- Produto 3 -->
     <div class="border border-green-700 p-4 rounded-xl">
       <span class="bg-purple-100 text-purple-800 text-xs font-bold px-2 py-1 rounded">TOP 6 MAIS VENDIDO</span>
-      <h2 class="font-bold mt-2">Coelho Cacau Magia ao Leite 400g</h2>
+      <h2 class="font-bold mt-2">Coelho Cacau Magia ao Leite 500g</h2>
       <p class="text-sm text-gray-600">Entrega Grátis via Motoboy</p>
-      <p class="line-through text-sm text-gray-400">R$ 39,90</p>
-      <p class="text-green-600 text-2xl font-bold">R$ 19,90</p>
-      <img src="https://via.placeholder.com/150" class="mx-auto my-3" alt="Produto">
+      <p class="line-through text-sm text-gray-400">R$ 119,90</p>
+      <p class="text-green-600 text-2xl font-bold">R$ 69,90</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxjNFn5tbv_kAM7H7c-jhDNkncXYzlyzLnLiCFF41bF51h_PjPGNBDfCb&s=10" class="mx-auto my-3" alt="Produto">
       <div class="flex flex-col gap-2 mt-4">
         <button onclick="abrirGateway('Coelho Cacau Magia - R$19,90')" class="bg-red-600 text-white text-center py-2 rounded-xl hover:bg-red-700">Finalizar Pedido</button>
       </div>
